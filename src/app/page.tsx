@@ -7,6 +7,7 @@ export default function Home() {
     <main >
      <h1>this is next js app</h1>
      <p>we are using this for practice</p>
+     <h3>changes</h3>
      <Homepage />
     </main>
   )
